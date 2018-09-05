@@ -9,4 +9,10 @@ div {
 
 h1 { visibility: hidden; }
 
+#second * { visibility: hidden; }
+
+img { visibility: visible !important; }
+
+
+/* other solutiom: " #second img { visibility: visible; } "
 
