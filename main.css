@@ -5,4 +5,8 @@ div {
 
 	}
 
-div > p {  }
+div > p.hidden #third { visibility: hidden; }
+
+h1.hidden { visibility: hidden; }
+
+
